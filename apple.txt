@@ -46,7 +46,7 @@ payload:
   - '+.download.developer.apple.com'
   - '+.gs-loc-cn.apple.com'
   - '+.gs-loc.apple.com'
-  - '+.ssl.ls.apple.com'
+  - '+.gsp-ssl.ls.apple.com'
   - '+.ssl-cn.ls.apple.com'
   - '+.gsp13-cn.ls.apple.com'
   - '+.gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net'
